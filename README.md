@@ -1,16 +1,14 @@
-## Hi there 👋
+<img src="https://i.postimg.cc/7YrY9mQB/header-github-final.png" width="700">
 
-<!--
-**kamilamarquess/kamilamarquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, how r u?
 
-Here are some ideas to get you started:
+I'm Kamila. 
+<p>When I'm not programming, I'm listening to music, playing games and practicing yoga!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif" heigth="250" width="120">
+
+Skills:
+
+
+Links:
+Linkedin
