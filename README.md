@@ -4,7 +4,7 @@
 
 I'm Kamila. 
 <p>When I'm not programming, I'm listening to music, playing games and practicing yoga!</p>
-<p>Also, I'm a mom of 6 cute kittens 😺.</p>
+<p>Also, I'm a mom of 6 cute cats 😺.</p>
 
 <img src="https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif" heigth="250" width="120">
 
@@ -15,7 +15,7 @@ I'm Kamila.
 - Phyton;
 
 
-## LinkedIn:
+## LinkedIn
 <a href="https://www.linkedin.com/in/kamila-marques-5453181b1">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35">
 </a>
