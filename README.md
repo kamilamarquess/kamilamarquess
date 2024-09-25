@@ -16,7 +16,7 @@ I'm Kamila.
 
 
 ## LinkedIn:
-<a href="www.linkedin.com/in/kamila-marques-5453181b1">
+<a href="www.linkedin.com/in/kamila-marques-5453181b1"></a>
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35">
 
 ## How to reach me?
