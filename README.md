@@ -9,11 +9,8 @@ I'm Kamila.
 <img src="https://media1.tenor.com/m/5BYK-WS0__gAAAAd/cool-fun.gif" heigth="250" width="120">
 
 ## My skills
-✔ HTML5;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ C
-
-↳  CSS
-- JavaScript;
-- Phyton;
+✔ HTML5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+✔ CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔ Phyton
 
 
 ## LinkedIn
